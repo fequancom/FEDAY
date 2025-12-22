@@ -2,7 +2,7 @@
 
 FEDAY 2025 将于 12 月 20 日在长沙举办；前端，不止于AI。与大牛一起探讨 AI 时代的前端开发！
 
-https://feuqna.com/2025/[](https://feuqna.com/2025/)
+[FEDAY 2025](https://feuqna.com/2025/)
 
 1、如何基于 Claude Code 打造一款适合企业内部的类似于 Lovable / v0dev 的 AI Coding Agent？
 分享嘉宾：宝玉
@@ -45,7 +45,7 @@ https://feuqna.com/2025/[](https://feuqna.com/2025/)
 
 FEDAY 2024 于 2024 年 12 月 07 日 在厦门举办，前端从业者汇聚一堂，共同探讨 前端遇上 AI。
 
-https://feuqna.com/2024/[](https://feuqna.com/2024/)
+[FEDAY 2024](https://feuqna.com/2024/)
 
 1、使用 Gradio 和 Transformers 构建 Web AI应用
 分享嘉宾：Yuichiro
@@ -82,7 +82,7 @@ https://feuqna.com/2024/[](https://feuqna.com/2024/)
 
 FEDAY 2023 于 2023 年 11 月 18 日在杭州举办，全球各地的前端同行将汇聚一堂，共同探讨前端与AI、图形、语言框架与端的相关话题。
 
-https://feuqna.com/2023/[](https://feuqna.com/2023/)
+[FEDAY 2023](https://feuqna.com/2023/)
 
 1、网页调试的最新进展（Modern Web Debugging）
 分享嘉宾：Jecelyn Yeen (阮贝琪)
