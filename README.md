@@ -2,7 +2,7 @@
 
 FEDAY 2025 将于 12 月 20 日在长沙举办；前端，不止于AI。与大牛一起探讨 AI 时代的前端开发！
 
-[FEDAY 2025](https://feuqna.com/2025/)
+[FEDAY 2025](https://fequan.com/2025/)
 
 1、如何基于 Claude Code 打造一款适合企业内部的类似于 Lovable / v0dev 的 AI Coding Agent？
 分享嘉宾：宝玉
